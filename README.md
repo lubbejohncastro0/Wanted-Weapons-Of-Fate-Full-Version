@@ -246,3 +246,6 @@ This repository serves as the official landing page for Wanted: Weapons of Fate.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Wanted: Weapons of Fate today!**
+
+---
+**Last updated:** 2026-09-10 11:56:27 UTC
